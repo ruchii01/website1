@@ -15,7 +15,7 @@ body {
     height: 50px;
     width: 50px;
     border-radius: 100%;
-    border-top: 2px solid blue;
+    border-top: 2px solid red;
     animation: load linear 2s infinite;
 }
 
